@@ -41,26 +41,30 @@ This repository contains **5 different machine learning projects** with their re
 
 ## Project Structure
 
+## 📂 Project Structure
+
+```text
 Machine-Learning-Projects
 │
-├── 📂 Diabetes
+├── Diabetes
 │   ├── Diabetes.ipynb
 │   └── diabetes1.csv
 │
-├── 📂 Heart_Disease
+├── Heart_Disease
 │   ├── Heart_Disease.ipynb
 │   └── heart_disease_data.csv
 │
-├── 📂 House_Price_Prediction
+├── House_Price_Prediction
 │   ├── House_Price.ipynb
 │   └── house_prices.csv
 │
-├── 📂 Weather_Classification
+├── Weather_Classification
 │   ├── Weather_Classification.ipynb
 │   └── weather_classification_data.csv
 │
-├── 📂 Wine_Quality
+├── Wine_Quality
 │   ├── Wine_Quality.ipynb
 │   └── winequality.csv
 │
 └── README.md
+```
